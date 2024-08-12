@@ -48,10 +48,6 @@ To run the game:
 1. Download the `.exe` file from the link above.
 2. Run the `.exe` file to play the game
 
---- 
-
-Just replace the link with the actual download URL from your GitHub releases.
-
 ## 🕹️ How to Play
 
 - **Movement**: Use the arrow keys or `AD` to move your character.
