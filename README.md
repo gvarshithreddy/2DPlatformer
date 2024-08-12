@@ -37,7 +37,7 @@
 
    - Click the "Play" button in the Godot editor to start the game.
 
-### ⬇️ Download the Game
+## ⬇️ Download the Game
 
 You can download the latest version of **JumpQuest** as an executable file for Windows:
 
